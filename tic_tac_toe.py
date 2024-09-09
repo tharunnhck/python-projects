@@ -1,4 +1,4 @@
-#program for tic tac toe on shell
+#program for tic tac toe 
 
 #creating the board
 board = ["  " for i in range(9)]
