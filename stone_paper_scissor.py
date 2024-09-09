@@ -1,4 +1,4 @@
-#program for the game - 'stone-paper-scissor' in shell
+#program for the game - 'stone-paper-scissor' 
 
 import random
 
